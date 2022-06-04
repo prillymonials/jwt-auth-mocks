@@ -22,7 +22,7 @@ app.use(express.urlencoded({ extended: true }));
 
 // simple route
 app.get('/', (_req, res) => {
-  res.json({ message: 'Welcome to bezkoder application.' });
+  res.json({ message: 'Welcome to application.' });
 });
 
 // routes
