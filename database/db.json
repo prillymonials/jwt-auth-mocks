@@ -1,0 +1,378 @@
+{
+  "_userId": 3,
+  "_tokensId": 2,
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@mail.com",
+      "password": "$2a$08$9oVFJllO8LrW5IUpoYijQu6msVvAoa.b0jxF.JnxyrLc9EJDLREDG"
+    },
+    {
+      "username": "user1",
+      "email": "user1@mail.com",
+      "password": "$2a$08$SKAfEunXBz/pZpsgPJZFgeT3Vb3Tv.u6VJ.uR3.qn/vRYxOduJRrG",
+      "id": 2
+    }
+  ],
+  "tokens": [
+    {
+      "userId": 2,
+      "id": 1,
+      "expiresAt": 1654330750109,
+      "token": "7198d0a0-c87c-4b53-bfa1-517b553ebe83"
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "full_name": "Ayn Schwartz",
+      "email": "aschwartz0@ning.com",
+      "gender": "Female",
+      "title": "Accountant II"
+    },
+    {
+      "id": 2,
+      "full_name": "Seana Andri",
+      "email": "sandri1@comsenz.com",
+      "gender": "Genderfluid",
+      "title": "Senior Cost Accountant"
+    },
+    {
+      "id": 3,
+      "full_name": "Natassia McClaughlin",
+      "email": "nmcclaughlin2@tripod.com",
+      "gender": "Female",
+      "title": "Sales Representative"
+    },
+    {
+      "id": 4,
+      "full_name": "Jordan Von Der Empten",
+      "email": "jvon3@amazon.de",
+      "gender": "Female",
+      "title": "VP Quality Control"
+    },
+    {
+      "id": 5,
+      "full_name": "Shay Stalf",
+      "email": "sstalf4@buzzfeed.com",
+      "gender": "Female",
+      "title": "Systems Administrator III"
+    },
+    {
+      "id": 6,
+      "full_name": "Stirling Binny",
+      "email": "sbinny5@imgur.com",
+      "gender": "Male",
+      "title": "Financial Analyst"
+    },
+    {
+      "id": 7,
+      "full_name": "Bealle Stodart",
+      "email": "bstodart6@imageshack.us",
+      "gender": "Male",
+      "title": "Help Desk Technician"
+    },
+    {
+      "id": 8,
+      "full_name": "Baird Knudsen",
+      "email": "bknudsen7@theguardian.com",
+      "gender": "Male",
+      "title": "Budget/Accounting Analyst II"
+    },
+    {
+      "id": 9,
+      "full_name": "Petronilla Eliyahu",
+      "email": "peliyahu8@wikispaces.com",
+      "gender": "Genderfluid",
+      "title": "Librarian"
+    },
+    {
+      "id": 10,
+      "full_name": "Cchaddie Fivey",
+      "email": "cfivey9@oracle.com",
+      "gender": "Male",
+      "title": "Senior Developer"
+    },
+    {
+      "id": 11,
+      "full_name": "Calv Habbon",
+      "email": "chabbona@washingtonpost.com",
+      "gender": "Male",
+      "title": "Junior Executive"
+    },
+    {
+      "id": 12,
+      "full_name": "Norton Coronas",
+      "email": "ncoronasb@msu.edu",
+      "gender": "Male",
+      "title": "Director of Sales"
+    },
+    {
+      "id": 13,
+      "full_name": "Pietro Oultram",
+      "email": "poultramc@whitehouse.gov",
+      "gender": "Male",
+      "title": "Systems Administrator III"
+    },
+    {
+      "id": 14,
+      "full_name": "Sherry Chesterton",
+      "email": "schestertond@qq.com",
+      "gender": "Female",
+      "title": "Librarian"
+    },
+    {
+      "id": 15,
+      "full_name": "Asa Bridge",
+      "email": "abridgee@statcounter.com",
+      "gender": "Male",
+      "title": "Electrical Engineer"
+    },
+    {
+      "id": 16,
+      "full_name": "Padraic Briddle",
+      "email": "pbriddlef@google.pl",
+      "gender": "Male",
+      "title": "Biostatistician III"
+    },
+    {
+      "id": 17,
+      "full_name": "Donelle Marchetti",
+      "email": "dmarchettig@mediafire.com",
+      "gender": "Female",
+      "title": "Pharmacist"
+    },
+    {
+      "id": 18,
+      "full_name": "Cris Stenyng",
+      "email": "cstenyngh@diigo.com",
+      "gender": "Non-binary",
+      "title": "Environmental Specialist"
+    },
+    {
+      "id": 19,
+      "full_name": "Stephi Roisen",
+      "email": "sroiseni@wiley.com",
+      "gender": "Female",
+      "title": "Nurse Practicioner"
+    },
+    {
+      "id": 20,
+      "full_name": "Nixie Crackel",
+      "email": "ncrackelj@google.com.au",
+      "gender": "Female",
+      "title": "Geologist IV"
+    },
+    {
+      "id": 21,
+      "full_name": "Ruthanne Goroni",
+      "email": "rgoronik@imdb.com",
+      "gender": "Female",
+      "title": "Research Associate"
+    },
+    {
+      "id": 22,
+      "full_name": "Lydon Salandino",
+      "email": "lsalandinol@bing.com",
+      "gender": "Male",
+      "title": "Account Coordinator"
+    },
+    {
+      "id": 23,
+      "full_name": "Damiano Bony",
+      "email": "dbonym@booking.com",
+      "gender": "Male",
+      "title": "Media Manager III"
+    },
+    {
+      "id": 24,
+      "full_name": "Zilvia Lehrmann",
+      "email": "zlehrmannn@fc2.com",
+      "gender": "Female",
+      "title": "Community Outreach Specialist"
+    },
+    {
+      "id": 25,
+      "full_name": "Burke Gierhard",
+      "email": "bgierhardo@nhs.uk",
+      "gender": "Male",
+      "title": "Information Systems Manager"
+    },
+    {
+      "id": 26,
+      "full_name": "Rebe Poulsum",
+      "email": "rpoulsump@smugmug.com",
+      "gender": "Bigender",
+      "title": "Analyst Programmer"
+    },
+    {
+      "id": 27,
+      "full_name": "Valene Blacket",
+      "email": "vblacketq@nasa.gov",
+      "gender": "Non-binary",
+      "title": "Analyst Programmer"
+    },
+    {
+      "id": 28,
+      "full_name": "Kasper Fryman",
+      "email": "kfrymanr@cnn.com",
+      "gender": "Male",
+      "title": "Senior Sales Associate"
+    },
+    {
+      "id": 29,
+      "full_name": "Sorcha Poser",
+      "email": "sposers@businesswire.com",
+      "gender": "Female",
+      "title": "Business Systems Development Analyst"
+    },
+    {
+      "id": 30,
+      "full_name": "Lulita Cosgrive",
+      "email": "lcosgrivet@economist.com",
+      "gender": "Genderfluid",
+      "title": "Sales Representative"
+    },
+    {
+      "id": 31,
+      "full_name": "Laura Wayne",
+      "email": "lwayneu@privacy.gov.au",
+      "gender": "Female",
+      "title": "Technical Writer"
+    },
+    {
+      "id": 32,
+      "full_name": "Judah Moret",
+      "email": "jmoretv@naver.com",
+      "gender": "Male",
+      "title": "Health Coach III"
+    },
+    {
+      "id": 33,
+      "full_name": "Annabella Rawsthorne",
+      "email": "arawsthornew@altervista.org",
+      "gender": "Female",
+      "title": "Developer III"
+    },
+    {
+      "id": 34,
+      "full_name": "Gwenora Reape",
+      "email": "greapex@symantec.com",
+      "gender": "Female",
+      "title": "Administrative Assistant I"
+    },
+    {
+      "id": 35,
+      "full_name": "Rockie Wasylkiewicz",
+      "email": "rwasylkiewiczy@sourceforge.net",
+      "gender": "Male",
+      "title": "Legal Assistant"
+    },
+    {
+      "id": 36,
+      "full_name": "Vanya Grady",
+      "email": "vgradyz@imdb.com",
+      "gender": "Male",
+      "title": "Account Executive"
+    },
+    {
+      "id": 37,
+      "full_name": "Dalis Dawnay",
+      "email": "ddawnay10@bandcamp.com",
+      "gender": "Male",
+      "title": "Structural Analysis Engineer"
+    },
+    {
+      "id": 38,
+      "full_name": "Stanley Reichert",
+      "email": "sreichert11@opera.com",
+      "gender": "Male",
+      "title": "Environmental Tech"
+    },
+    {
+      "id": 39,
+      "full_name": "Bonnie Rohan",
+      "email": "brohan12@cdc.gov",
+      "gender": "Female",
+      "title": "Staff Scientist"
+    },
+    {
+      "id": 40,
+      "full_name": "Kakalina Dedrick",
+      "email": "kdedrick13@1und1.de",
+      "gender": "Female",
+      "title": "Media Manager III"
+    },
+    {
+      "id": 41,
+      "full_name": "Tuckie Alexandersen",
+      "email": "talexandersen14@liveinternet.ru",
+      "gender": "Male",
+      "title": "VP Quality Control"
+    },
+    {
+      "id": 42,
+      "full_name": "Mirabella Mac Giany",
+      "email": "mmac15@discuz.net",
+      "gender": "Female",
+      "title": "Help Desk Operator"
+    },
+    {
+      "id": 43,
+      "full_name": "Tobi Fredi",
+      "email": "tfredi16@who.int",
+      "gender": "Female",
+      "title": "Actuary"
+    },
+    {
+      "id": 44,
+      "full_name": "Karim Lunnon",
+      "email": "klunnon17@independent.co.uk",
+      "gender": "Male",
+      "title": "Information Systems Manager"
+    },
+    {
+      "id": 45,
+      "full_name": "Ardeen Fierro",
+      "email": "afierro18@ustream.tv",
+      "gender": "Female",
+      "title": "Tax Accountant"
+    },
+    {
+      "id": 46,
+      "full_name": "Ozzy Dwyer",
+      "email": "odwyer19@kickstarter.com",
+      "gender": "Male",
+      "title": "Software Engineer II"
+    },
+    {
+      "id": 47,
+      "full_name": "Fayth Skellen",
+      "email": "fskellen1a@illinois.edu",
+      "gender": "Female",
+      "title": "Technical Writer"
+    },
+    {
+      "id": 48,
+      "full_name": "Kristofer Santino",
+      "email": "ksantino1b@networksolutions.com",
+      "gender": "Male",
+      "title": "Legal Assistant"
+    },
+    {
+      "id": 49,
+      "full_name": "Fredelia Patise",
+      "email": "fpatise1c@bloglovin.com",
+      "gender": "Female",
+      "title": "Civil Engineer"
+    },
+    {
+      "id": 50,
+      "full_name": "Lindsey Wyne",
+      "email": "lwyne1d@icio.us",
+      "gender": "Female",
+      "title": "Registered Nurse"
+    }
+  ]
+}
